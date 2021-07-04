@@ -45,3 +45,15 @@ Execute using:
 ## ... ##
 
 <img src="vot_5.png" alt="vot_5" width = "350"/>
+
+## 4. Calculating Annuity (A sequence of Cash Flows for a given number of years, say T periods into the future, while considering an Annuity paying a Fixed Amount X each period with a Spot Fixed Rate r)
+
+Execute using:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `g++ -pedantic-errors -std=c++11 annuity.cpp -o annuity`
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `./annuity 10000 3.5 10`
+
+## ... Sample Output ... ##
+
+<img src="vot_6.png" alt="vot_6" width = "800"/>
