@@ -72,37 +72,37 @@ int main(int argc, char* argv[]) {
 
     cout << "INFINITE FORM GROWTH PERPETUITY SIMULATIONS\n" << endl;
 
-    Sleep(500);
+    Sleep(1000);
     infiniteFormGrowthPerpetuity(p, 10);
-    Sleep(500);
+    Sleep(1000);
     infiniteFormGrowthPerpetuity(p, 15);
-    Sleep(500);
+    Sleep(1000);
     infiniteFormGrowthPerpetuity(p, 20);
-    Sleep(500);
+    Sleep(1000);
     infiniteFormGrowthPerpetuity(p, 25);
-    Sleep(500);
+    Sleep(1000);
     infiniteFormGrowthPerpetuity(p, 30);
-    Sleep(500);
+    Sleep(1000);
     infiniteFormGrowthPerpetuity(p, 35);
-    Sleep(500);
+    Sleep(1000);
     infiniteFormGrowthPerpetuity(p, 40);
-    Sleep(500);
+    Sleep(1000);
     infiniteFormGrowthPerpetuity(p, 45);
-    Sleep(500);
+    Sleep(1000);
     infiniteFormGrowthPerpetuity(p, 50);
-    Sleep(500);
+    Sleep(1000);
     infiniteFormGrowthPerpetuity(p, 75);
-    Sleep(500);
+    Sleep(1000);
     infiniteFormGrowthPerpetuity(p, 150);
-    Sleep(500);
+    Sleep(1000);
     infiniteFormGrowthPerpetuity(p, 300);
-    Sleep(500);
+    Sleep(1000);
     infiniteFormGrowthPerpetuity(p, 500);
-    Sleep(500);
+    Sleep(1000);
     infiniteFormGrowthPerpetuity(p, 1000);
-    Sleep(500);
+    Sleep(1000);
     infiniteFormGrowthPerpetuity(p, 10000);
-    Sleep(500);
+    Sleep(1000);
 
     cout << "We have reached the end..." << endl;
 }
