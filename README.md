@@ -57,3 +57,15 @@ Execute using:
 ## ... Sample Output ... ##
 
 <img src="vot_6.png" alt="vot_6" width = "800"/>
+
+## 5. Calculating Growing Annuity (A sequence of Cash Flows for a given number of years, say T periods into the future, where each payment grows by a given factor each year) ##
+
+Execute using:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `g++ -pedantic-errors -std=c++11 growingannuity.cpp -o growingannuity`
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `./growingannuity 10000 6 3.5 10`
+
+## ... Sample Output ... ##
+
+<img src="vot_7.png" alt="vot_7" width = "1100"/>
