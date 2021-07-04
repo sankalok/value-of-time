@@ -9,3 +9,7 @@ Execute using:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `g++ -pedantic-errors -std=c++11 pv_riskless_fcf_ft.cpp -o npv`
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `./npv`
+
+## ... Sample Output ... ##
+
+<img src="vot_1.png" alt="vot_1" width = "600"/>
