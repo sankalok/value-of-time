@@ -84,14 +84,14 @@ Execute using:
 
 ## ... ##
 
-<img src="vot_10.png" alt="vot_10" width = "750"/>
+<img src="vot_10.png" alt="vot_10" width = "600"/>
 
 ## ... ##
 
-<img src="vot_11.png" alt="vot_11" width = "750"/>
+<img src="vot_11.png" alt="vot_11" width = "600"/>
 
 ## ... ##
 
-<img src="vot_12.png" alt="vot_12" width = "750"/>
+<img src="vot_12.png" alt="vot_12" width = "700"/>
 
 ### ~~ Sankalok Sen ~~ ###
