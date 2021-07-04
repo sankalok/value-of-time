@@ -69,3 +69,29 @@ Execute using:
 ## ... Sample Output ... ##
 
 <img src="vot_7.png" alt="vot_7" width = "1100"/>
+
+## 6. Estimating the Internal Rate of Return for a series of inputted Cash Flows
+
+Execute using:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `g++ -pedantic-errors -std=c++11 internalrateofreturn.cpp -o iror`
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `./iror -110 10 100`
+
+## ... Sample Output ... ##
+
+<img src="vot_9.png" alt="vot_9" width = "800"/>
+
+## ... ##
+
+<img src="vot_10.png" alt="vot_10" width = "750"/>
+
+## ... ##
+
+<img src="vot_11.png" alt="vot_11" width = "750"/>
+
+## ... ##
+
+<img src="vot_12.png" alt="vot_12" width = "750"/>
+
+### ~~ Sankalok Sen ~~ ###
