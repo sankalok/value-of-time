@@ -29,3 +29,19 @@ Execute using:
 ## ... ##
 
 <img src="vot_3.png" alt="vot_3" width = "425"/>
+
+## 3. Calculating Growing Perpetuity (An infinite sequence of cashflows, where the payment the first year is Fixed Amount X and each consequent payment grows by a constant rate) ##
+
+Execute using:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `g++ -pedantic-errors -std=c++11 growingperpetuity.cpp -o growingperpetuity`
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; `./growingperpetuity 10000 5.5 2.5`
+
+## ... Sample Output ... ##
+
+<img src="vot_4.png" alt="vot_4" width = "800"/>
+
+## ... ##
+
+<img src="vot_5.png" alt="vot_5" width = "350"/>
